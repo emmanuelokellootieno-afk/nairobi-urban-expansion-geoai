@@ -1,6 +1,0 @@
-Use or Create Existing GEE Project
-Upload your AOI Asset ( the larger the area the more it  will be challanging to run the code)
-Create a Google colab project with TPU for faster processing
-Use your GEE project
-Authenicate and initialize GEE Account and project
-Save Expoted files in Google drive to use for EDA and futher Analysis
